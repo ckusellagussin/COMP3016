@@ -2,3 +2,5 @@ C:\Users\Casey\Desktop\OpenGl\OpenGl\Debug\OpenGl.exe
 C:\Users\Casey\Desktop\OpenGl\OpenGl\Debug\OpenGl.pdb
 C:\Users\Casey\Documents\GitHub\2020-comp3016-cw2-ckusellagussin\OpenGl\OpenGl\Debug\OpenGl.exe
 C:\Users\Casey\Documents\GitHub\2020-comp3016-cw2-ckusellagussin\OpenGl\OpenGl\Debug\OpenGl.pdb
+C:\Users\Casey\Documents\GitHub\COMP3016\OpenGl\OpenGl\Debug\OpenGl.exe
+C:\Users\Casey\Documents\GitHub\COMP3016\OpenGl\OpenGl\Debug\OpenGl.pdb
